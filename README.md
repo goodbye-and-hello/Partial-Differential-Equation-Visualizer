@@ -1,9 +1,12 @@
 # Partial-Differential-Equation-Visualizer
 
-Making Partial Differential Equation Visualizer(PDEV) by using C#
+Making Partial Differential Equation Visualizer(PDEV) by using C# 2018.04
 
-Author :  @ssibongee (Algorithm)
-          @superapeach (GUI)
+**Author** :  
+
+@ssibongee (Algorithm)
+
+@superapeach (GUI)
          
          
 ### PDEV 
