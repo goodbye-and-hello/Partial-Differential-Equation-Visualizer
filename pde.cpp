@@ -3,7 +3,7 @@
 //       Filename:  PDE.cpp
 //        Created:  2018.04.18 
 //       Compiler:  vs2015
-//         Author:  uc4ntc4tchm3, uc4ntc4tchm3@gmail.com
+//         Author:  ssibongee, ssibongee@yonsei.ac.kr
 //        Company:  Yonsei univ.
 // 
 // ===========================================================
